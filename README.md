@@ -1,4 +1,4 @@
-# PostgreSQL Data Modeling & SQL Analytics
+# Relational-Data-Modeling-SQL-Analytics-PostgreSQL-ER-Logical-Design
 
 End-to-end mini-project that goes from **ER modeling → logical schema → physical SQL** in PostgreSQL. It demonstrates clean schema design, **PK/AK/FK integrity**, basic **transactions** (INSERT/UPDATE/DELETE + ROLLBACK) and **10 analytic queries** with clear results and explanations.
 
